@@ -64,13 +64,6 @@ export class AuthService {
 
     return null;
   }
-
-
-
-
-
-
-
 }
 
 const authService = new AuthService();
